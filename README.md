@@ -1,3 +1,4 @@
+<p style='text-align: left;'> 
 How to create Docker Image and run it:
 
 1\) Please download below files uploaded into this repository.  1.
@@ -44,3 +45,4 @@ Pull Request Details:
 Thanks and Regards,
 
 Abhijeet Hapase
+</p>
