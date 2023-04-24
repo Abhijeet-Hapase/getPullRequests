@@ -2,7 +2,7 @@
 How to create Docker Image and run it:
 
 1\) Please download below files uploaded into this repository.<br>  
-  1.getPullRequests.py 2.Dockerfile 3.requirements.txt
+  1.getPullRequests.py<br> 2.Dockerfile<br> 3.requirements.txt
 
 2\) Please run following command to create docker image. <br>
   docker build --tag getpullrequests:1.0.1 .
