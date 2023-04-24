@@ -28,7 +28,7 @@ def getPullRequests(owner,repo_name,request_status):
 
     #Check if response received contains valid data or not
     if (validate_repo_Name['total_count']==0):
-        print("Invalid Repository Name.Please provide valid name as command line argument")
+        print("Invalid Repository Name.Please provide name of repository with valid name and is public as command line argument")
         sys.exit(1)
     if (message_key in pull_request_data and pull_request_data['message']=='Not Found'):
         print("Invalid Repository Owner Name.Please valid name provide as command line argument")
