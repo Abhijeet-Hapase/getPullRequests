@@ -38,31 +38,9 @@ Number of Pull Requests : 19
 
 Pull Request Details:
 
-+\-\-\-\-\-\--+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--+\-\-\-\-\-\--+
-\| ID \| Pull Request Title \| State \|
-+\-\-\-\-\-\--+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--+\-\-\-\-\-\--+
-\| 50159 \| fix: Updated postinstall to include config setup + updated
-doc \| open \| \| 50156 \| feat(client): remove extra if statement in
-the navigation header \| open \| \| 50144 \| fix(deps): update prisma
-monorepo to v4.13.0 \| open \| \| 50142 \| docs: fix typos \| open \| \|
-50132 \| fix: improvement in Use \@if and \@else to Add Logic To Your
-Styles module \| open \| \| 50128 \| fix: typo in Target the Parent of
-an Element Using jQuery module \| open \| \| 50125 \| fix: use onRequest
-to add headers \| open \| \| 50120 \| feat(api): add CORS headers \|
-open \| \| 50119 \| refactor(client): split lower-jaw to separate files
-\| open \| \| 50117 \| feat(client): add react suspense and lazy loading
-\| open \| \| 50110 \| fix(client): Prevent saving invalid portfolio
-item \| open \| \| 50106 \| feat(client): use showPoints to hide points
-instead of mutating the points \| open \| \| 50105 \| feat(client):
-children for spacer component \| open \| \| 50099 \| test(api): allow
-mocking of env vars \| open \| \| 50094 \| feat(client): Customized
-Radio Buttons in settings page \| open \| \| 50093 \| feat(client):Weird
-validation for portfolio inputs in the setting page \| open \| \| 50088
-\| feat: replace code lock epic with saga \| open \| \| 50087 \| fix:
-updated reset and help buttons \| open \| \| 50084 \| feat(client):
-expose the language button to the navbar \| open \|
-+\-\-\-\-\-\--+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--+\-\-\-\-\-\--+
-
+| ID                                                                                                                	| Pull Request Title                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	| State                                                                                          	|
+|-------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------	|
+| 50159 50156 50144 50142 50132 50128 50125 50120 50119 50117 50110 50106 50105 50099 50094 50093 50088 50087 50084 	| fix: Updated postinstall to include config setup + updated doc feat(client): remove extra if statement in the navigation header fix(deps): update prisma monorepo to v4.13.0 docs: fix typos fix: improvement in Use @if and @else to Add Logic To Your Styles module fix: typo in Target the Parent of an Element Using jQuery module fix: use onRequest to add headers feat(api): add CORS headers refactor(client): split lower-jaw to separate files feat(client): add react suspense and lazy loading fix(client): Prevent saving invalid portfolio item feat(client): use showPoints to hide points instead of mutating the points feat(client): children for spacer component test(api): allow mocking of env vars feat(client): Customized Radio Buttons in settings page feat(client):Weird validation for portfolio inputs in the setting page feat: replace code lock epic with saga fix: updated reset and help buttons feat(client): expose the language button to the navbar 	| open open open open open open open open open open open open open open open open open open open 	|
 Thanks and Regards,
 
 Abhijeet Hapase
