@@ -1,25 +1,27 @@
 <p style='text-align: left;'> 
 How to create Docker Image and run it:
 
-1\) Please download below files uploaded into this repository.  
-  \1.getPullRequests.py 2.Dockerfile 3.requirements.txt
+1\) Please download below files uploaded into this repository.<br>  
+  1.getPullRequests.py 2.Dockerfile 3.requirements.txt
 
-2\) Please run following command to create docker image. 
-  \docker build --tag getpullrequests:1.0.1 .
+2\) Please run following command to create docker image. <br>
+  docker build --tag getpullrequests:1.0.1 .
 
 3\) To list the image you have created in step 2,please run below
-command. 
-  \docker images
+command.<br> 
+  docker images
 
 Output will be similar to below snip:
 
-REPOSITORY TAG IMAGE ID CREATED SIZE getpullrequests 1.0.1 6d27e423dfaf
-3 minutes ago 139MB getpullrequests latest 9399b8799d60 2 hours ago
-139MB getpulrequests latest 9399b8799d60 2 hours ago 139MB 4) Docker
-image created in step 3 takes 3 arguments:  1. Repository Owner Name 2.
+REPOSITORY TAG IMAGE ID CREATED SIZE<br> 
+  getpullrequests 1.0.1 6d27e423dfaf
+3 minutes ago 139MB <br>getpullrequests latest 9399b8799d60 2 hours ago
+139MB <br>getpulrequests latest 9399b8799d60 2 hours ago 139MB 
+4\) Docker
+image created in step 3 takes 3 arguments:<br>  1. Repository Owner Name 2.
 Repository Name 3. State of pull requests(open/closed/all).
 
-To run the docker image with tag 1.0.1,execute below command: docker run
+To run the docker image with tag 1.0.1,execute below command:<br> docker run
 getpullrequests:1.0.1 freeCodeCamp freeCodeCamp open
 
 This should produce email format that will be sent to target audience as
