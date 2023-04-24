@@ -17,6 +17,7 @@ REPOSITORY TAG IMAGE ID CREATED SIZE<br>
   getpullrequests 1.0.1 6d27e423dfaf
 3 minutes ago 139MB <br>getpullrequests latest 9399b8799d60 2 hours ago
 139MB <br>getpulrequests latest 9399b8799d60 2 hours ago 139MB <br>
+
 4\) Docker image created in step 3 takes 3 arguments:<br>  1. Repository Owner Name 2.
 Repository Name 3. State of pull requests(open/closed/all).
 
